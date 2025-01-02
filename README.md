@@ -16,4 +16,4 @@ To get started with the Wallet Budget Tracker, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/wallet_budget_tracker.git
+   git clone https://github.com/chichimedamine/wallet_budget_tracker.git
