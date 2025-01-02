@@ -1,0 +1,363 @@
+hello
+help
+bye
+add expense
+remove expense
+view expenses
+total expenses
+set budget
+view budget
+savings
+income# Basic Commands
+add expense
+remove expense
+delete transaction
+cancel payment
+view transaction
+show balance
+check balance
+display total
+calculate sum
+edit transaction
+
+# Time-Based Variations
+add monthly expense
+record weekly payment
+log daily transaction
+create annual fee
+set quarterly payment
+schedule future payment
+view last month expenses
+check previous transactions
+show today's spending
+display weekly summary
+
+# Amount-Based Commands (multiply each with different amounts $5-$10000)
+spend $50 on
+pay $100 for
+transfer $200 to
+withdraw $300 from
+deposit $400 into
+invest $500 in
+save $1000 for
+budget $2000 for
+allocate $5000 to
+reserve $10000 for
+
+# Category-Based Transactions
+# Food & Groceries
+add grocery shopping at Walmart
+record supermarket purchase
+log food delivery payment
+create restaurant bill
+add cafe expense
+record bakery purchase
+log convenience store expense
+create farmers market purchase
+add snacks expense
+record beverage purchase
+
+# Transportation
+add gas payment
+record car maintenance
+log parking fee
+create toll payment
+add bus fare
+record train ticket
+log taxi fare
+create airline ticket
+add car rental
+record bike sharing
+
+# Housing & Utilities
+add rent payment
+record electricity bill
+log water bill
+create gas utility payment
+add internet bill
+record phone bill
+log cable TV payment
+create home insurance
+add property tax
+record home maintenance
+
+# Healthcare
+add doctor visit
+record pharmacy purchase
+log dental payment
+create hospital bill
+add medical insurance
+record vision care
+log therapy session
+create wellness program
+add gym membership
+record health supplements
+
+# Entertainment
+add movie tickets
+record concert payment
+log gaming purchase
+create theme park tickets
+add sports event
+record streaming service
+log book purchase
+create music subscription
+add hobby supplies
+record entertainment expense
+
+# Education
+add tuition payment
+record textbook purchase
+log course fee
+create school supplies
+add training program
+record workshop payment
+log certification fee
+create education software
+add study materials
+record library fee
+
+# Professional Services
+add legal fee
+record consulting payment
+log accounting service
+create tax preparation
+add financial advisory
+record cleaning service
+log repair service
+create design service
+add marketing expense
+record professional membership
+
+# Investment & Savings
+add stock purchase
+record bond investment
+log mutual fund
+create crypto investment
+add gold purchase
+record retirement contribution
+log emergency fund
+create college savings
+add real estate investment
+record dividend income
+
+# Loan & Credit
+add mortgage payment
+record car loan
+log student loan
+create personal loan
+add credit card payment
+record loan interest
+log debt payment
+create refinancing fee
+add loan insurance
+record credit check fee
+
+# Income Sources
+add salary deposit
+record bonus payment
+log commission
+create freelance income
+add rental income
+record dividend payment
+log interest earned
+create side hustle income
+add overtime pay
+record tip income
+
+# Transfers
+transfer to savings
+move to checking
+send to investment
+transfer to emergency fund
+move to retirement
+send to college fund
+transfer to vacation fund
+move to tax account
+send to business account
+transfer to joint account
+
+[Continue this pattern to generate 10000 unique phrases by:
+1. Combining different verbs (add, record, log, create, remove, delete)
+2. Different amounts ($5-$10000)
+3. Different time periods (daily, weekly, monthly, yearly)
+4. Different locations/vendors
+5. Different payment methods (cash, credit, debit, digital)
+6. Different categories and subcategories
+7. Different account types
+8. Different transaction types
+9. Different descriptive adjectives
+10. Different action verbs]
+report
+help
+balance
+transaction
+categories
+monthly
+weekly
+yearly
+alert
+notification
+add groceries
+record utility payment
+log salary
+create travel expense
+add entertainment expense
+log dining out
+record shopping expense
+create healthcare payment
+add education expense
+log subscription payment
+record loan payment
+create credit card payment
+add cash withdrawal
+log bank transfer
+record deposit
+create investment income
+add gift expense
+log miscellaneous expense
+record rental income
+create sales income
+add service payment
+Add a grocery expense of $50
+Record a utility payment of $100
+Log a dining expense of $30
+Create a travel expense for my trip to Paris costing $500
+Add a subscription payment for Netflix of $15
+Log my salary of $2000
+Record a freelance income of $300
+Add a bonus of $500
+Create an investment income of $250
+Log a rental income of $800
+Transfer $100 from my savings to checking
+Pay my credit card bill of $200
+Log a cash withdrawal of $50
+Record a bank transfer of $300
+Add a loan payment of $400
+Remove the grocery expense from last week
+Delete the dining out transaction
+Cancel the utility payment for this month
+Remove the subscription payment for Spotify
+Delete the travel expense for last month
+Add a grocery expense of $45
+Record a utility payment of $120
+Log a dining expense of $25
+Create a travel expense for my trip to London costing $600
+Add a subscription payment for Hulu of $12
+Log my salary of $2200
+Record a freelance income of $350
+Add a bonus of $600
+Create an investment income of $300
+Log a rental income of $850
+Transfer $200 from my checking to savings
+Pay my credit card bill of $250
+Log a cash withdrawal of $75
+Record a bank transfer of $400
+Add a loan payment of $450
+Remove the grocery expense from last month
+Delete the dining out transaction from last week
+Cancel the utility payment for next month
+Remove the subscription payment for Amazon Prime
+Delete the travel expense for last week
+Add a grocery expense of $60
+Record a utility payment of $130
+Log a dining expense of $40
+Create a travel expense for my trip to New York costing $700
+Add a subscription payment for Disney+ of $10
+Log my salary of $2400
+Record a freelance income of $400
+Add a bonus of $700
+Create an investment income of $350
+Log a rental income of $900
+Transfer $300 from my savings to checking
+Pay my credit card bill of $300
+Log a cash withdrawal of $100
+Record a bank transfer of $500
+Add a loan payment of $500
+Remove the grocery expense from this week
+Delete the dining out transaction from this month
+Cancel the utility payment for this quarter
+Remove the subscription payment for HBO Max
+Delete the travel expense for this month
+Add a grocery expense of $55
+Record a utility payment of $140
+Log a dining expense of $35
+Create a travel expense for my trip to San Francisco costing $800
+Add a subscription payment for Peacock of $8
+Log my salary of $2600
+Record a freelance income of $450
+Add a bonus of $800
+Create an investment income of $400
+Log a rental income of $950
+Transfer $400 from my checking to savings
+Pay my credit card bill of $350
+Log a cash withdrawal of $125
+Record a bank transfer of $600
+Add a loan payment of $550
+Remove the grocery expense from this month
+Delete the dining out transaction from last month
+Cancel the utility payment for this year
+Remove the subscription payment for YouTube Premium
+Delete the travel expense for this week
+Add a grocery expense of $70
+Record a utility payment of $150
+Log a dining expense of $45
+Create a travel expense for my trip to Miami costing $900
+Add a subscription payment for Apple TV+ of $15
+Log my salary of $2800
+Record a freelance income of $500
+Add a bonus of $900
+Create an investment income of $450
+Log a rental income of $1000
+Transfer $500 from my savings to checking
+Pay my credit card bill of $400
+Log a cash withdrawal of $150
+Record a bank transfer of $700
+Add a loan payment of $600
+Remove the grocery expense from this week
+Delete the dining out transaction from this month
+Cancel the utility payment for this quarter
+Remove the subscription payment for Hulu Live
+Delete the travel expense for this month
+Add a grocery expense of $70
+Record a utility payment of $150
+Log a dining expense of $45
+Create a travel expense for my trip to Miami costing $900
+Add a subscription payment for Apple TV+ of $15
+Log my salary of $2800
+Record a freelance income of $500
+Add a bonus of $900
+Create an investment income of $450
+Log a rental income of $1000
+Transfer $500 from my savings to checking
+Pay my credit card bill of $400
+Log a cash withdrawal of $150
+Record a bank transfer of $700
+Add a loan payment of $600
+Remove the grocery expense from this week
+Delete the dining out transaction from this month
+Cancel the utility payment for this quarter
+Remove the subscription payment for Hulu Live
+Delete the travel expense for this month
+food
+transportation
+entertainment
+healthcare
+education
+utilities
+rent
+groceries
+travel
+gifts
+subscriptions
+loans
+investments
+sales
+services
+
+pay with cash
+charge to credit card
+transfer from bank
+pay via PayPal
+use debit card
+pay with mobile wallet
