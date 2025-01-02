@@ -9,6 +9,11 @@ The Wallet Budget Tracker is a Flutter application designed to help users manage
 - **Transaction Recording**: Easily add and categorize transactions.
 - **Reports**: Visualize spending trends with graphs and charts.
 - **Responsive Design**: Optimized for both mobile and tablet devices.
+- 📲 Frontend: Flutter (Dart)
+⚙️ State Management: BLoC
+💾 Data Storage: Hive (NoSQL)
+🔔 Local Notification
+  
 
 ## Installation
 
