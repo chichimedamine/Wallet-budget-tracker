@@ -1,16 +1,19 @@
-# wallet_budget_tracker
+# Wallet Budget Tracker
 
-A new Flutter project.
+## Overview
+The Wallet Budget Tracker is a Flutter application designed to help users manage their finances by tracking their income and expenses. The app provides a user-friendly interface for budgeting, recording transactions, and visualizing spending patterns.
 
-## Getting Started
+## Features
+- **User-friendly Interface**: Intuitive design for easy navigation.
+- **Budgeting Tools**: Set budgets and track spending against them.
+- **Transaction Recording**: Easily add and categorize transactions.
+- **Reports**: Visualize spending trends with graphs and charts.
+- **Responsive Design**: Optimized for both mobile and tablet devices.
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+To get started with the Wallet Budget Tracker, follow these steps:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/wallet_budget_tracker.git
